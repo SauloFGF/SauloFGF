@@ -155,6 +155,27 @@ A animação abaixo percorre o histórico de contribuições do GitHub. O workfl
   <img src="https://img.shields.io/badge/Atualização-a_cada_12_horas-8b5cf6?style=for-the-badge" alt="Atualização a cada 12 horas" />
 </p>
 
+## 🎮 GitHub Shoot 'em Up
+
+Animação arcade em loop inspirada no GitHub, no contribution graph e no fluxo de commits. A imagem final é independente: o GitHub apenas exibe o GIF, sem executar JavaScript, servidor ou qualquer aplicação.
+
+![GitHub Shoot 'em Up](./github-shootemup.gif)
+
+### Gerar ou modificar a animação
+
+O arquivo `generate.py` é necessário apenas para regenerar o GIF:
+
+```bash
+python -m pip install Pillow
+python generate.py
+```
+
+O comando cria ou atualiza `github-shootemup.gif` na raiz deste repositório. Para usar em outro perfil, basta copiar o GIF e adicionar esta linha ao README:
+
+```md
+![GitHub Shoot 'em Up](./github-shootemup.gif)
+```
+
 ## 📫 Contato
 
 <p align="center">
