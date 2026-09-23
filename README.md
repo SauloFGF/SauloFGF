@@ -87,7 +87,7 @@ Ao longo da minha trajetória, também atuei com modelagem de dados em SQL e Mon
     <img src="https://img.shields.io/github/followers/SauloFGF?style=for-the-badge&amp;label=Followers&amp;logo=github&amp;logoColor=white" alt="Seguidores no GitHub" />
   </a>
   <a href="https://github.com/SauloFGF">
-    <img src="https://img.shields.io/github/last-commit/SauloFGF?style=for-the-badge&amp;label=%C3%9Altimo%20commit&amp;logo=github&amp;logoColor=white" alt="Data do último commit" />
+    <img src="https://img.shields.io/github/last-commit/SauloFGF/SauloFGF?style=for-the-badge&amp;label=%C3%9Altimo%20commit&amp;logo=github&amp;logoColor=white" alt="Data do último commit" />
   </a>
 </p>
 
